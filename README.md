@@ -1,24 +1,9 @@
-# wad-crud - Tugas Minggu 7 Mata Kuliah Web Application Development
+# wad-crud
 
-Selamat datang di repositori "wad-crud"! Ini adalah proyek tugas Minggu 7 untuk mata kuliah Web Application Development. Repositori ini berisi implementasi operasi CRUD (Create, Read, Update, Delete) sederhana menggunakan teknologi web.
+Selamat datang di repositori "wad-crud"! Ini adalah proyek tugas Minggu 7 untuk mata kuliah Web Application Development. Repositori ini berisi implementasi operasi CRUD (Create, Read, Update, Delete) sederhana menggunakan bahasa pemrograman PHP.
 
-## Struktur Folder
+### Penjelasan
 
-Proyek ini memiliki struktur folder sebagai berikut:
+Program utama akan langsung terbuka dengan menjalankan file index.php.
 
-wad-crud/
-│
-├── basic/
-│ ├── functions.php
-│ ├── hapus.php
-│ ├── index.php
-│ ├── tambah.php
-│ ├── ubah.php
-│
-├── img/
-│ ├── ...
-│
-├── functions.php
-├── index.php
-├── README.md
-├── styles.css
+- **basic/**: Berisi program yang sudah memenuhi fungsionalitas yang diminta pada tugas
